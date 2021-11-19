@@ -1,7 +1,6 @@
 # LANDING-PAGE
 This is my landnding page for FWD first project 
 * the code main idea is my Idea  
-* I had a couple of difficulties so i searched how to do some of them then wrote them myself 
 * first thing I did is to attach the js file to the html file 
 * then I add the 4th section in the html file adn the scroll type 
 *  startd working on the js file 
