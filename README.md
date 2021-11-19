@@ -1,5 +1,5 @@
 # LANDING-PAGE
-* This is my landnding page for FWD first project 
+This is my landnding page for FWD first project 
 * the code main idea is my Idea  
 * I had a couple of difficulties so i searched how to do some of them then wrote them myself 
 * first thing I did is to attach the js file to the html file 
